@@ -171,7 +171,7 @@ document.getElementById('game43').addEventListener('click', function() {
 });
 
 document.getElementById('game44').addEventListener('click', function() {
-    document.getElementById('gameFrame').src = 'baln';
+    document.getElementById('gameFrame').src = 'https://rickrolled.com/';
 });
 
 // Close UI functionality
